@@ -1,0 +1,24 @@
+
+.sedan{
+    background-color: hsl(31, 77%, 52%);
+}
+
+.suv{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.lux{
+    background-color: hsl(179, 100%, 13%);
+}
+
+article{
+    width: 385px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+img{
+    width: 100px;
+}
